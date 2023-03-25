@@ -1,4 +1,4 @@
-![logo](https://github.com/KankareDEV/Markus-Kankare-Profile/blob/main/logobanner.png)
+![logo](https://github.com/KankareDEV/KankareDEV/blob/main/logobannernew.jpg)
 <h1 align="center">Hi 👋, I'm Markus</h1>
 <h3 align="center">I'm a Flutter and Front-End Developer from Finland, with a passion for creating visually stunning and highly functional user experiences. My hunger for learning drives me to constantly develop my skills and keep up with the rapidly evolving world of mobile and web development. Whether I'm working on a personal project or collaborating with a team, I always strive to deliver the best possible results. My proficiency in Flutter and front-end technologies, such as Dart, CSS, and JavaScript, allows me to build responsive and scalable applications that meet the needs of my clients.</h3>
 
