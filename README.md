@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Markus Kankare</h1>
 <h3 align="center">Hello, I'm a Flutter and Front-End Developer from Finland, with a passion for creating visually stunning and highly functional user experiences. My hunger for learning drives me to constantly develop my skills and keep up with the rapidly evolving world of mobile and web development. Whether I'm working on a personal project or collaborating with a team, I always strive to deliver the best possible results. My proficiency in Flutter and front-end technologies, such as Dart, CSS, and JavaScript, allows me to build responsive and scalable applications that meet the needs of my clients.</h3>
 
-<img align=“right” alt=“coding” width=“400” src=“![image](https://user-images.githubusercontent.com/73897024/227709225-f838fd8c-897b-4ff6-9a27-19b7607a8336.png)”>
+<img align=“right” alt=“coding” width=“400” src=“https://media.tenor.com/0Dns0WCL0O4AAAAC/cyber.gif”>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
